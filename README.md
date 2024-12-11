@@ -28,7 +28,7 @@ Password : admin
 # Terima Kasih
 <ul>
     <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
+    <li> Resprimorgaia </li>
     <li> Stackoverflow </li>
     <li> Google </li>
 </ul>
